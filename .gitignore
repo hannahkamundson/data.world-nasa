@@ -1,5 +1,6 @@
 *.class
 *.log
+*.DS_STORE
 
 # Ignore Gradle project-specific cache directory
 .gradle
@@ -11,3 +12,4 @@ build
 **/.terraform/*
 *.tfstate
 *.tfstate.*
+*.tfvars
